@@ -30,7 +30,7 @@ def greet(name):
 ```
 
 #### Linkovi
-Dodajte linkove na izvore slika i tekstova:
+
 
 
 [Izvor slika](https://www.pexels.com/photo/moody-black-and-white-seaside-scene-in-istanbul-29668079/)
