@@ -32,8 +32,8 @@ def greet(name):
 #### Linkovi
 Dodajte linkove na izvore slika i tekstova:
 
-```markdown
-[Izvor slika](https://www.pexels.com/)
+
+[Izvor slika](https://www.pexels.com/photo/moody-black-and-white-seaside-scene-in-istanbul-29668079/)
 [Wikipedia: User Experience Design](https://en.wikipedia.org/wiki/User_experience_design)
 ```
 ```markdown
