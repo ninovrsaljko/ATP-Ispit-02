@@ -57,6 +57,8 @@ def greet(name):
 [LICENSE](LICENSE.md)
 [CHANGELOG](CHANGELOG.md)
 [![User Experience Design](https://www.youtube.com/watch?v=IYd1-cPwQCk)
+:rocket: :star: :trophy:
+
 
 
 
