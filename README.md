@@ -60,7 +60,7 @@ def greet(name):
 :rocket: :star: :trophy:
 
 > **Napomena:** Ovaj zadatak je samo demonstracija osnova korištenja Markdown-a.
-
+```sql
 git commit -m "Dodana dokumentacija i GitHub Pages"
 
 
