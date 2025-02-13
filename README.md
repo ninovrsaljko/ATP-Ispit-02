@@ -59,6 +59,10 @@ def greet(name):
 [![User Experience Design](https://www.youtube.com/watch?v=IYd1-cPwQCk)
 :rocket: :star: :trophy:
 
+> **Napomena:** Ovaj zadatak je samo demonstracija osnova korištenja Markdown-a.
+
+git commit -m "Dodana dokumentacija i GitHub Pages"
+
 
 
 
