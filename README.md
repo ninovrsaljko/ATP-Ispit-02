@@ -54,5 +54,8 @@ Dodajte linkove na izvore slika i tekstova:
 
 > "User experience is the process of creating products that provide meaningful and relevant experiences to users." - Don Norman
 ```
+[LICENSE](LICENSE.md)
+[CHANGELOG](CHANGELOG.md)
+
 
 
